@@ -1,6 +1,6 @@
 # 💵 Expense Tracker 💵
 
-En este ejercicio teneis que crear una app que lleve cuentas de cuanto dinero se deben un grupo de personas entre si.
+En este ejercicio teneis que crear una app que lleve cuentas de cuanto dinero se deben un grupo de personas entre si al estilo de [Tricount](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&hl=es&gl=US)
 
 ## Premisa
 
